@@ -1,4 +1,4 @@
-!{}(https://github.com/DrVicki/my-blog-app/blob/master/public/images/deom.gif)
+![](https://github.com/DrVicki/my-blog-app/blob/master/public/images/deom.gif)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
